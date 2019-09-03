@@ -4,8 +4,7 @@ Industrial Engineering and Operations Research
 
 Instructor: **Brett Vintch** PhD
 
-with guest lectures by:
-
+with guest lectures by:  
 **Sam Garrett** | Lead Data Science Engineer at iHeartRadio
 
 ## Course Description 
