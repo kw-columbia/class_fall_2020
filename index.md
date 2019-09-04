@@ -105,6 +105,6 @@ This course will focus on common personalization algorithms and theory, includin
 
 ## Evaluation
 
-- Homework 1 (25%)
-- Homework 2 (25%)
+- Homework 1 (20%)
+- Homework 2 (30%)
 - Final project (50%)
