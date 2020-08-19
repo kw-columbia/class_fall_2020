@@ -1,15 +1,12 @@
-**E4571: Columbia University, Fall 2019**  
+**E4571: Columbia University, Fall 2020**  
 Data Science Institute  
 Industrial Engineering and Operations Research  
 
 Instructor: **Brett Vintch** PhD
 
-with guest lectures by:  
-**Sam Garrett** | Lead Data Science Engineer at iHeartRadio
-
 ## Course Description 
 
-Personalization is a key tool for enhancing customer experience across industries, thereby driving user loyalty and customer value. It is therefore no surprise that creating and enhancing personalization systems is also increasingly one of the core responsibilities of data science teams, and a key focus for many of the machine learning algorithms in the sector.
+Personalization is a common tool for enhancing customer experience across industries, driving user loyalty and customer value. It is therefore no surprise that creating and enhancing personalization systems is also increasingly one of the core responsibilities of data science teams, and a key focus for many of the machine learning algorithms in the sector.
 
 This course will focus on common personalization algorithms and theory, including behavior-based and content-based recommendation, commonly encountered issues in scaling and cold-starts, and state of the art research. It will also look at how businesses use, and misuse, these techniques in real world applications.
 
